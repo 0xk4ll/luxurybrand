@@ -1,0 +1,7 @@
+{
+  "name": "LuxuryBrand Landing & Admin Panel",
+  "description": "A sophisticated landing page for luxury products with a comprehensive admin dashboard for management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
